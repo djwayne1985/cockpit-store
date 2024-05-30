@@ -1,26 +1,6 @@
 {
-  "IPTV Apps": [
-    {
-      "name": "Cockpit Panel: Smarters Pro Module",
-      "description": "Simplify customization with Cockpit Panel's Smarters Pro Module. Remotely configure services and settings for Smarters Pro, streamlining integration and enhancing user experiences from one intuitive platform.",
-      "hosted": "",
-      "hosted_offer": "",
-      "selfhosted": "100.00",
-      "selfhosted_offer": "75.00",
-      "sourcecode": "",
-      "sourcecode_offer": "",
-      "main_image": "https://i.imgur.com/AgZMPD2.png",
-      "images": [
-        "https://i.imgur.com/gINBAtx.png",
-        "https://i.imgur.com/MRD9uPU.png",
-        "https://i.imgur.com/ufBBeAH.png",
-        "https://i.imgur.com/pQdbPI7.png",
-        "https://i.imgur.com/Q3Aesvm.png"
-      ],
-      "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
-      "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
-    },
+  "IPTV Apps": [],
+  "Miscsellaneous": [
     {
       "name": "Cockpit Panel: XCIPTV Module",
       "description": "Simplify customization with Cockpit Panel's xciptv Module. Remotely configure services and settings for xciptv, streamlining integration and enhancing user experiences from one intuitive platform.",
@@ -202,9 +182,29 @@
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
       "purchase": "https://t.me/Fladnag2018"
-    }
+    },
+    {
+      "name": "Cockpit Panel: Smarters Pro Module",
+      "description": "Simplify customization with Cockpit Panel's Smarters Pro Module. Remotely configure services and settings for Smarters Pro, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://i.imgur.com/AgZMPD2.png",
+      "images": [
+        "https://i.imgur.com/gINBAtx.png",
+        "https://i.imgur.com/MRD9uPU.png",
+        "https://i.imgur.com/ufBBeAH.png",
+        "https://i.imgur.com/pQdbPI7.png",
+        "https://i.imgur.com/Q3Aesvm.png"
+      ],
+      "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://t.me/Fladnag2018"
+    },
   ],
-  "Miscsellaneous": [],
   "Panels": [
     {
       "name": "Cockpit Panel",
@@ -228,7 +228,7 @@
       "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
       "telegram": "https://t.me/Fladnag2018",
       "purchase": "https://t.me/Fladnag2018"
-    }
+    },
   ],
   "VPN Apps": []
 }
