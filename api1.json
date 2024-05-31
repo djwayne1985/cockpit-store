@@ -194,24 +194,6 @@
             "ytvideo": "",
             "telegram": "https://t.me/Fladnag2018",
             "purchase": "https://t.me/Fladnag2018"
-        },
-        {
-            "name": "Cockpit Panel: Stremio Module",
-            "description": "Simplify customization with Cockpit Panel's Streamio Module. Remotely configure services and settings for Streamio, streamlining integration and enhancing user experiences from one intuitive platform.",
-            "hosted": "",
-            "hosted_offer": "",
-            "selfhosted": "100.00",
-            "selfhosted_offer": "75.00",
-            "sourcecode": "",
-            "sourcecode_offer": "",
-            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-urunl-producto-7.png",
-            "images": [
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_7/6645ff7bf090f_5829.png",
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_7/6645ff8165e41_5950.png"
-            ],
-            "ytvideo": "",
-            "telegram": "https://t.me/Fladnag2018",
-            "purchase": "https://t.me/Fladnag2018"
         }
     ],
     "VPN Apps": [
