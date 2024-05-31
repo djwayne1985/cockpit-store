@@ -1,6 +1,6 @@
 {
     "IPTV Apps": [],
-    "Miscellaneous": [
+    "Miscsellaneous": [
         {
             "name": "Cockpit Panel",
             "description": "Built upon the beloved Cockpit v1.0a (Legacy), this successor offers a faster, smoother experience. Crafted from the ground up with a modular design, it's fully customizable to meet users unique needs. Packed with features for owners and users alike, it comes pre-installed with the Multi-service Proxy Module. Plus, enjoy the added versatility of Custom Android WebView Widgets.",
@@ -31,8 +31,8 @@
             "description": "Simplify customization with Cockpit Panel's Smarters Pro Module. Remotely configure services and settings for Smarters Pro, streamlining integration and enhancing user experiences from one intuitive platform.",
             "hosted": "",
             "hosted_offer": "",
-            "selfhosted": "75.00",
-            "selfhosted_offer": "50.00",
+            "selfhosted": "100.00",
+            "selfhosted_offer": "75.00",
             "sourcecode": "",
             "sourcecode_offer": "",
             "main_image": "https://i.imgur.com/AgZMPD2.png",
@@ -63,7 +63,53 @@
             "ytvideo": "",
             "telegram": "https://t.me/Fladnag2018",
             "purchase": "https://t.me/Fladnag2018"
+        },
+        {
+            "name": "Cockpit Panel: XCIPTV Module",
+            "description": "Simplify customization with Cockpit Panel's xciptv Module. Remotely configure services and settings for xciptv, streamlining integration and enhancing user experiences from one intuitive platform.",
+            "hosted": "",
+            "hosted_offer": "",
+            "selfhosted": "100.00",
+            "selfhosted_offer": "75.00",
+            "sourcecode": "",
+            "sourcecode_offer": "",
+            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-pk5v7-producto-16.png",
+            "images": [
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607ce0c464_3446.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607d6c7f2d_4046.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607de21ef1_6734.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607e44ce23_2821.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607eb13d0b_4677.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607f459b2a_3297.png"
+            ],
+            "ytvideo": "",
+            "telegram": "https://t.me/Fladnag2018",
+            "purchase": "https://t.me/Fladnag2018"
         }
     ],
-    "VPN Apps": []
+    "VPN Apps": [
+        {
+            "name": "IPVanish",
+            "description": "Simplify customization with Cockpit Panel's IPVanish Module. Remotely configure services and settings for IPVanish, streamlining integration and enhancing user experiences from one intuitive platform.",
+            "hosted": "",
+            "hosted_offer": "",
+            "selfhosted": "250.00",
+            "selfhosted_offer": "150.00",
+            "sourcecode": "",
+            "sourcecode_offer": "",
+            "main_image": "https://i.imgur.com/2IJ66Ud.png",
+            "images": [
+                "https://i.imgur.com/PjD1Bj7.png",
+                "https://i.imgur.com/53SLhAP.png",
+                "https://i.imgur.com/KoINY6T.png",
+                "https://i.imgur.com/ZMeT3Iv.png",
+                "https://i.imgur.com/gvWOw9m.png",
+                "https://i.imgur.com/3vmVg9j.png",
+                "https://i.imgur.com/kDc7Eis.png"
+            ],
+            "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
+            "telegram": "https://t.me/Fladnag2018",
+            "purchase": "https://t.me/Fladnag2018"
+        }
+    ]
 }
