@@ -31,8 +31,8 @@
             "description": "Simplify customization with Cockpit Panel's Smarters Pro Module. Remotely configure services and settings for Smarters Pro, streamlining integration and enhancing user experiences from one intuitive platform.",
             "hosted": "",
             "hosted_offer": "",
-            "selfhosted": "100.00",
-            "selfhosted_offer": "75.00",
+            "selfhosted": "75.00",
+            "selfhosted_offer": "50.00",
             "sourcecode": "",
             "sourcecode_offer": "",
             "main_image": "https://i.imgur.com/AgZMPD2.png",
@@ -44,6 +44,45 @@
                 "https://i.imgur.com/Q3Aesvm.png"
             ],
             "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
+            "telegram": "https://t.me/ianwoneill",
+            "purchase": "https://store.cockpit.lol/cart.php?a=add&pid=12"
+        },
+        {
+            "name": "Cockpit Panel: Tivimate Module",
+            "description": "Simplify customization with Cockpit Panel's Tivimate Module. Remotely configure services and settings for Tivimate, streamlining integration and enhancing user experiences from one intuitive platform.",
+            "hosted": "",
+            "hosted_offer": "",
+            "selfhosted": "100.00",
+            "selfhosted_offer": "75.00",
+            "sourcecode": "",
+            "sourcecode_offer": "",
+            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-83nbp-producto-15.png",
+            "images": [
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_15/664606a7a2ad3_2087.png"
+            ],
+            "ytvideo": "",
+            "telegram": "https://t.me/Fladnag2018",
+            "purchase": "https://t.me/Fladnag2018"
+        },
+        {
+            "name": "Cockpit Panel: XCIPTV Module",
+            "description": "Simplify customization with Cockpit Panel's xciptv Module. Remotely configure services and settings for xciptv, streamlining integration and enhancing user experiences from one intuitive platform.",
+            "hosted": "",
+            "hosted_offer": "",
+            "selfhosted": "100.00",
+            "selfhosted_offer": "75.00",
+            "sourcecode": "",
+            "sourcecode_offer": "",
+            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-pk5v7-producto-16.png",
+            "images": [
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607ce0c464_3446.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607d6c7f2d_4046.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607de21ef1_6734.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607e44ce23_2821.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607eb13d0b_4677.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607f459b2a_3297.png"
+            ],
+            "ytvideo": "",
             "telegram": "https://t.me/Fladnag2018",
             "purchase": "https://t.me/Fladnag2018"
         },
@@ -202,28 +241,6 @@
             "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-f3ss9-producto-18.png",
             "images": [
                 "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_18/664609267680a_8505.png"
-            ],
-            "ytvideo": "",
-            "telegram": "https://t.me/Fladnag2018",
-            "purchase": "https://t.me/Fladnag2018"
-        },
-        {
-            "name": "Cockpit Panel: XCIPTV Module",
-            "description": "Simplify customization with Cockpit Panel's xciptv Module. Remotely configure services and settings for xciptv, streamlining integration and enhancing user experiences from one intuitive platform.",
-            "hosted": "",
-            "hosted_offer": "",
-            "selfhosted": "100.00",
-            "selfhosted_offer": "75.00",
-            "sourcecode": "",
-            "sourcecode_offer": "",
-            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-pk5v7-producto-16.png",
-            "images": [
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607ce0c464_3446.png",
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607d6c7f2d_4046.png",
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607de21ef1_6734.png",
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607e44ce23_2821.png",
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607eb13d0b_4677.png",
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607f459b2a_3297.png"
             ],
             "ytvideo": "",
             "telegram": "https://t.me/Fladnag2018",
