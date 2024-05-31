@@ -121,6 +121,41 @@
             "ytvideo": "",
             "telegram": "https://t.me/Fladnag2018",
             "purchase": "https://t.me/Fladnag2018"
+        },
+        {
+            "name": "Cockpit Panel: NexTv Module",
+            "description": "Simplify customization with Cockpit Panel's NexTv Module. Remotely configure services and settings for NexTv, streamlining integration and enhancing user experiences from one intuitive platform.",
+            "hosted": "",
+            "hosted_offer": "",
+            "selfhosted": "100.00",
+            "selfhosted_offer": "75.00",
+            "sourcecode": "",
+            "sourcecode_offer": "",
+            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-zrs74-producto-11.png",
+            "images": [
+                ""
+            ],
+            "ytvideo": "",
+            "telegram": "https://t.me/Fladnag2018",
+            "purchase": "https://t.me/Fladnag2018"
+        },
+        {
+            "name": "Cockpit Panel: Sparkle Module",
+            "description": "Simplify customization with Cockpit Panel's Sparkle Module. Remotely configure services and settings for Sparkle, streamlining integration and enhancing user experiences from one intuitive platform.",
+            "hosted": "",
+            "hosted_offer": "",
+            "selfhosted": "100.00",
+            "selfhosted_offer": "75.00",
+            "sourcecode": "",
+            "sourcecode_offer": "",
+            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-81i62-producto-13.png",
+            "images": [
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_13/664604ae0eec4_3637.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_13/664604b2da30a_1993.png"
+            ],
+            "ytvideo": "",
+            "telegram": "https://t.me/Fladnag2018",
+            "purchase": "https://t.me/Fladnag2018"
         }
     ],
     "VPN Apps": [
