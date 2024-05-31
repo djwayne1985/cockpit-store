@@ -1,5 +1,6 @@
 {
-    "IPTV Apps": [
+    "IPTV Apps": [],
+    "Miscsellaneous": [
         {
             "name": "Cockpit Panel: Stremio Module",
             "description": "Simplify customization with Cockpit Panel's Stremio Module. Remotely configure services and settings for Stremio, streamlining integration and enhancing user experiences from one intuitive platform.",
@@ -18,46 +19,6 @@
             "telegram": "https://t.me/Fladnag2018",
             "purchase": "https://t.me/Fladnag2018"
         },
-        {
-            "name": "Cockpit Panel: Streambox Module",
-            "description": "Simplify customization with Cockpit Panel's Streambox Module. Remotely configure services and settings for Streambox, streamlining integration and enhancing user experiences from one intuitive platform.",
-            "hosted": "",
-            "hosted_offer": "",
-            "selfhosted": "100.00",
-            "selfhosted_offer": "75.00",
-            "sourcecode": "",
-            "sourcecode_offer": "",
-            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-my37d-producto-14.png",
-            "images": [
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_14/664605ee61bfb_7984.png",
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_14/664605fc58a97_7868.png"
-            ],
-            "ytvideo": "",
-            "telegram": "https://t.me/Fladnag2018",
-            "purchase": "https://t.me/Fladnag2018"
-        },
-        {
-            "name": "Cockpit Panel: IBO Module",
-            "description": "Simplify customization with Cockpit Panel's IBO Module. Remotely configure services and settings for IBO, streamlining integration and enhancing user experiences from one intuitive platform.",
-            "hosted": "",
-            "hosted_offer": "",
-            "selfhosted": "100.00",
-            "selfhosted_offer": "75.00",
-            "sourcecode": "",
-            "sourcecode_offer": "",
-            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-sv3er-producto-8.png",
-            "images": [
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600adab728_2088.png",
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600b948c6a_2861.png",
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600be96177_6837.png",
-                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600c42b492_3053.png",
-            ],
-            "ytvideo": "",
-            "telegram": "https://t.me/Fladnag2018",
-            "purchase": "https://t.me/Fladnag2018"
-        }
-    ],
-    "Miscsellaneous": [
         {
             "name": "Cockpit Panel",
             "description": "Built upon the beloved Cockpit v1.0a (Legacy), this successor offers a faster, smoother experience. Crafted from the ground up with a modular design, it's fully customizable to meet users unique needs. Packed with features for owners and users alike, it comes pre-installed with the Multi-service Proxy Module. Plus, enjoy the added versatility of Custom Android WebView Widgets.",
