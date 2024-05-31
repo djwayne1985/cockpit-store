@@ -85,6 +85,28 @@
             "ytvideo": "",
             "telegram": "https://t.me/Fladnag2018",
             "purchase": "https://t.me/Fladnag2018"
+        },
+        {
+            "name": "Cockpit Panel: XCIPTV Module",
+            "description": "Simplify customization with Cockpit Panel's xciptv Module. Remotely configure services and settings for xciptv, streamlining integration and enhancing user experiences from one intuitive platform.",
+            "hosted": "",
+            "hosted_offer": "",
+            "selfhosted": "100.00",
+            "selfhosted_offer": "75.00",
+            "sourcecode": "",
+            "sourcecode_offer": "",
+            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-pk5v7-producto-16.png",
+            "images": [
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607ce0c464_3446.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607d6c7f2d_4046.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607de21ef1_6734.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607e44ce23_2821.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607eb13d0b_4677.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607f459b2a_3297.png"
+            ],
+            "ytvideo": "",
+            "telegram": "https://t.me/Fladnag2018",
+            "purchase": "https://t.me/Fladnag2018"
         }
     ],
     "VPN Apps": [
