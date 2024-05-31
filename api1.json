@@ -85,6 +85,26 @@
             "ytvideo": "",
             "telegram": "https://t.me/Fladnag2018",
             "purchase": "https://t.me/Fladnag2018"
+        },
+        {
+            "name": "Cockpit Panel: IBO Module",
+            "description": "Simplify customization with Cockpit Panel's IBO Module. Remotely configure services and settings for IBO, streamlining integration and enhancing user experiences from one intuitive platform.",
+            "hosted": "",
+            "hosted_offer": "",
+            "selfhosted": "100.00",
+            "selfhosted_offer": "75.00",
+            "sourcecode": "",
+            "sourcecode_offer": "",
+            "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-sv3er-producto-8.png",
+            "images": [
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600adab728_2088.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600b948c6a_2861.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600be96177_6837.png",
+                "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600c42b492_3053.png",
+            ],
+            "ytvideo": "",
+            "telegram": "https://t.me/Fladnag2018",
+            "purchase": "https://t.me/Fladnag2018"
         }
     ],
     "VPN Apps": [
