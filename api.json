@@ -1,7 +1,7 @@
 {
   "IPTV Apps": [],
-  "Miscellaneous": [],
-  "Panels": [
+  "Panels": [],
+  "Miscellaneous": [
     {
       "name": "Cockpit Panel: Smarters Pro Module",
       "description": "Simplify customization with Cockpit Panel's Smarters Pro Module. Remotely configure services and settings for Smarters Pro, streamlining integration and enhancing user experiences from one intuitive platform.",
