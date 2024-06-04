@@ -1,5 +1,5 @@
 {
-   "IPTV Apps": [],
+  "IPTV Apps": [],
   "Miscellaneous": [
     {
       "name": "Cockpit Panel",
@@ -22,7 +22,7 @@
       ],
       "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://store.cockpit.lol/index.php?rp=/store/cockpit-base"
+      "purchase": "https://t.me/Fladnag2018"
     }
   ],
   "Panels": [
@@ -45,7 +45,7 @@
       ],
       "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     },
     {
       "name": "Cockpit Panel: Tivimate Module",
@@ -62,7 +62,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     },
     {
       "name": "Cockpit Panel: XCIPTV Module",
@@ -84,7 +84,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     },
     {
       "name": "Cockpit Panel: Flix Vision Module",
@@ -102,7 +102,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     },
     {
       "name": "Cockpit Panel: CinemaHD Module",
@@ -120,7 +120,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     },
     {
       "name": "Cockpit Panel: NexTv Module",
@@ -132,10 +132,12 @@
       "sourcecode": "",
       "sourcecode_offer": "",
       "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-zrs74-producto-11.png",
-      "images": [""],
+      "images": [
+        ""
+      ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     },
     {
       "name": "Cockpit Panel: Sparkle Module",
@@ -153,7 +155,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     },
     {
       "name": "Cockpit Panel: Stremio Module",
@@ -171,25 +173,31 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     },
     {
-      "name": "Cockpit Panel: iMPlayer Module",
-      "description": "Simplify management of iMPlayer application mods with Cockpit Panel's iMPlayer TV Module. Remotely configure services and settings for enhanced customization and seamless integration, all from one centralized platform.",
+      "name": "Cockpit Panel: Streambox Module",
+      "description": "Simplify management of Streambox application mods with Cockpit Panel's Streambox TV Module. Remotely configure services and settings for enhanced customization and seamless integration, all from one centralized platform.",
       "hosted": "",
       "hosted_offer": "",
       "selfhosted": "100.00",
       "selfhosted_offer": "75.00",
       "sourcecode": "",
       "sourcecode_offer": "",
-      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-we4jg-producto-9.png",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-my37d-producto-14.png",
       "images": [
-        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_9/6646015da96bf_4527.png",
-        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_9/66460162cd346_8297.png"
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_14/664605ee61bfb_7984.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_14/664605fc58a97_7868.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_14/664606034abc2_2513.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_14/6646060ed701d_9272.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_14/6646061485a59_9483.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_14/6646061debac2_8780.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_14/66460623e6b52_6510.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_14/6646062aaa600_7134.png"
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     },
     {
       "name": "Cockpit Panel: IBO Module",
@@ -209,7 +217,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     }
   ],
   "VPN Apps": [
@@ -229,7 +237,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     },
     {
       "name": "Cockpit Panel: Private Internet Access Module",
@@ -247,7 +255,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": ""
+      "purchase": "https://t.me/Fladnag2018"
     }
   ]
 }
