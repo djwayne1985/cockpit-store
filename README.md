@@ -1,2 +1,2 @@
 # cockpit-store
-Example / Official Cockpit Storefront for Cockpit Panels
+Rebranded Apps UK Cockpit Storefront for Cockpit Panels
