@@ -1,7 +1,31 @@
 {
-  "IPTV Apps": [],
-  "Panels": [],
+   "IPTV Apps": [],
   "Miscellaneous": [
+    {
+      "name": "Cockpit Panel",
+      "description": "Built upon the beloved Cockpit v1.0a (Legacy), this successor offers a faster, smoother experience. Crafted from the ground up with a modular design, it's fully customizable to meet users unique needs. Packed with features for owners and users alike, it comes pre-installed with the Multi-service Proxy Module. Plus, enjoy the added versatility of Custom Android WebView Widgets.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "250.00",
+      "selfhosted_offer": "150.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://i.imgur.com/2IJ66Ud.png",
+      "images": [
+        "https://i.imgur.com/PjD1Bj7.png",
+        "https://i.imgur.com/53SLhAP.png",
+        "https://i.imgur.com/KoINY6T.png",
+        "https://i.imgur.com/ZMeT3Iv.png",
+        "https://i.imgur.com/gvWOw9m.png",
+        "https://i.imgur.com/3vmVg9j.png",
+        "https://i.imgur.com/kDc7Eis.png"
+      ],
+      "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/cockpit-base"
+    }
+  ],
+  "Panels": [
     {
       "name": "Cockpit Panel: Smarters Pro Module",
       "description": "Simplify customization with Cockpit Panel's Smarters Pro Module. Remotely configure services and settings for Smarters Pro, streamlining integration and enhancing user experiences from one intuitive platform.",
@@ -20,8 +44,8 @@
         "https://i.imgur.com/Q3Aesvm.png"
       ],
       "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
-      "telegram": "https://t.me/ianwoneill",
-      "purchase": "https://store.cockpit.lol/cart.php?a=add&pid=12"
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": ""
     },
     {
       "name": "Cockpit Panel: Tivimate Module",
@@ -38,7 +62,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
+      "purchase": ""
     },
     {
       "name": "Cockpit Panel: XCIPTV Module",
@@ -60,7 +84,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
+      "purchase": ""
     },
     {
       "name": "Cockpit Panel: Flix Vision Module",
@@ -78,7 +102,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
+      "purchase": ""
     },
     {
       "name": "Cockpit Panel: CinemaHD Module",
@@ -96,7 +120,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
+      "purchase": ""
     },
     {
       "name": "Cockpit Panel: NexTv Module",
@@ -108,12 +132,10 @@
       "sourcecode": "",
       "sourcecode_offer": "",
       "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-zrs74-producto-11.png",
-      "images": [
-        ""
-      ],
+      "images": [""],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
+      "purchase": ""
     },
     {
       "name": "Cockpit Panel: Sparkle Module",
@@ -131,7 +153,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
+      "purchase": ""
     },
     {
       "name": "Cockpit Panel: Stremio Module",
@@ -149,30 +171,45 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
+      "purchase": ""
     },
     {
-      "name": "Cockpit Panel",
-      "description": "Built upon the beloved Cockpit v1.0a (Legacy), this successor offers a faster, smoother experience. Crafted from the ground up with a modular design, it's fully customizable to meet users unique needs. Packed with features for owners and users alike, it comes pre-installed with the Multi-service Proxy Module. Plus, enjoy the added versatility of Custom Android WebView Widgets.",
+      "name": "Cockpit Panel: iMPlayer Module",
+      "description": "Simplify management of iMPlayer application mods with Cockpit Panel's iMPlayer TV Module. Remotely configure services and settings for enhanced customization and seamless integration, all from one centralized platform.",
       "hosted": "",
       "hosted_offer": "",
-      "selfhosted": "250.00",
-      "selfhosted_offer": "160.00",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
       "sourcecode": "",
       "sourcecode_offer": "",
-      "main_image": "https://i.imgur.com/2IJ66Ud.png",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-we4jg-producto-9.png",
       "images": [
-        "https://i.imgur.com/PjD1Bj7.png",
-        "https://i.imgur.com/53SLhAP.png",
-        "https://i.imgur.com/KoINY6T.png",
-        "https://i.imgur.com/ZMeT3Iv.png",
-        "https://i.imgur.com/gvWOw9m.png",
-        "https://i.imgur.com/3vmVg9j.png",
-        "https://i.imgur.com/kDc7Eis.png"
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_9/6646015da96bf_4527.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_9/66460162cd346_8297.png"
       ],
-      "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
+      "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
+      "purchase": ""
+    },
+    {
+      "name": "Cockpit Panel: IBO Module",
+      "description": "Simplify customization with Cockpit Panel's IBO Module. Remotely configure services and settings for IBO, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-sv3er-producto-8.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600adab728_2088.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600b948c6a_2861.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600be96177_6837.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600c42b492_3053.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": ""
     }
   ],
   "VPN Apps": [
@@ -185,19 +222,14 @@
       "selfhosted_offer": "75.00",
       "sourcecode": "",
       "sourcecode_offer": "",
-      "main_image": "https://i.imgur.com/2IJ66Ud.png",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-wg6ku-producto-17.png",
       "images": [
-        "https://i.imgur.com/PjD1Bj7.png",
-        "https://i.imgur.com/53SLhAP.png",
-        "https://i.imgur.com/KoINY6T.png",
-        "https://i.imgur.com/ZMeT3Iv.png",
-        "https://i.imgur.com/gvWOw9m.png",
-        "https://i.imgur.com/3vmVg9j.png",
-        "https://i.imgur.com/kDc7Eis.png"
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_17/6646089d104a4_9721.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_17/664608a254a0a_7370.png"
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
+      "purchase": ""
     },
     {
       "name": "Cockpit Panel: Private Internet Access Module",
@@ -208,19 +240,14 @@
       "selfhosted_offer": "75.00",
       "sourcecode": "",
       "sourcecode_offer": "",
-      "main_image": "https://i.imgur.com/2IJ66Ud.png",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-f3ss9-producto-18.png",
       "images": [
-        "https://i.imgur.com/PjD1Bj7.png",
-        "https://i.imgur.com/53SLhAP.png",
-        "https://i.imgur.com/KoINY6T.png",
-        "https://i.imgur.com/ZMeT3Iv.png",
-        "https://i.imgur.com/gvWOw9m.png",
-        "https://i.imgur.com/3vmVg9j.png",
-        "https://i.imgur.com/kDc7Eis.png"
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_18/664609267680a_8505.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_18/6646092bacef5_5417.png"
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
-      "purchase": "https://t.me/Fladnag2018"
+      "purchase": ""
     }
   ]
 }
