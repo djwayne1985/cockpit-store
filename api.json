@@ -1,6 +1,31 @@
 {
   "IPTV Apps": [
     {
+      "name": "Rebranded Apps UK",
+      "description": "All Modules comes with a rebranded app.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://fm.rebrandedappsuk.tk/uploads/Opera-Snapshot_2024-06-05_125639_store_rebrandedappsuk_tk.png",
+      "images": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://store.rebrandedappsuk.tk/"
+    },
+    {
       "name": "Rebranded Apps UK<br>APK Store",
       "description": "A website where you can see all the apk's i have available contact me on telegram for more info.",
       "hosted": "",
