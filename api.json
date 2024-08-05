@@ -11,14 +11,6 @@
       "sourcecode_offer": "",
       "main_image": "https://rebrandedappsuk.tk/logo.png",
       "images": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         ""
       ],
       "ytvideo": "",
@@ -284,6 +276,57 @@
         "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600b948c6a_2861.png",
         "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600be96177_6837.png",
         "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600c42b492_3053.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://t.me/Fladnag2018"
+    },
+    {
+      "name": "Cockpit Panel: 1-Stream Module",
+      "description": "Simplify customization with Cockpit Panel's 1-Stream Module. Remotely configure services and settings for 1-Stream, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-x8b3x-producto-22.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_22/66b002c1de324_7392.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://t.me/Fladnag2018"
+    },
+    {
+      "name": "Cockpit Panel: 9Xtream Module",
+      "description": "Simplify customization with Cockpit Panel's 9Xtream Module. Remotely configure services and settings for 9Xtream, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-1dev0-producto-23.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_23/66b002e1897d8_6951.png""
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://t.me/Fladnag2018"
+    },
+    {
+      "name": "Cockpit Panel: MYTVOnline Module",
+      "description": "Simplify customization with Cockpit Panel's MYTVOnline Module. Remotely configure services and settings for MYTVOnline, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-cdz1n-producto-24.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_24/66b027c3350a5_8245.png""
       ],
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
