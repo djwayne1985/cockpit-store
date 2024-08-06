@@ -331,6 +331,23 @@
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
       "purchase": "https://t.me/Fladnag2018"
+    },
+    {
+      "name": "Cockpit Panel: Legazy Module",
+      "description": "Simplify customization with Cockpit Panel's Legazy Module. Remotely configure services and settings for Legazy, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-6dmek-producto-25.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_25/66b17a8358031_1551.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://t.me/Fladnag2018"
     }
   ],
   "VPN Apps": [
