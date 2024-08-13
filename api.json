@@ -366,6 +366,23 @@
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
       "purchase": "https://t.me/Fladnag2018"
+    },
+    {
+      "name": "Cockpit Panel: YouTube Premium Module",
+      "description": "Streamline your setup with Cockpit Panel's YouTube Premium Module. Easily manage and configure settings for the YouTube Premium app remotely, ensuring smooth integration and an optimized user experience, all through one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-gkvlx-producto-27.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_27/66bbb37f57d3c_2826.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://t.me/Fladnag2018"
     }
   ],
   "VPN Apps": [
