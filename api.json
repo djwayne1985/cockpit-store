@@ -348,6 +348,24 @@
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
       "purchase": "https://t.me/Fladnag2018"
+    },
+    {
+      "name": "Cockpit Panel: APKTime Module",
+      "description": "Optimize your setup with Cockpit Panel's APKTime Appstore Module. Remotely configure services and settings for the APKTime Appstore, ensuring seamless integration and an enhanced user experience, all from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-wo0bi-producto-26.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_26/66bae08ca7a08_7064.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_26/66bae09346d98_1400.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://t.me/Fladnag2018"
     }
   ],
   "VPN Apps": [
