@@ -1,5 +1,48 @@
 {
-  "IPTV Apps": [],
+  "IPTV Apps": [
+    {
+      "name": "Rebranded Apps UK : Buy me a coffee",
+      "description": "All Modules comes with a rebranded app.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://rebrandedappsuk.tk/logo.png",
+      "images": [
+        ""
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/nmbtvtech",
+      "purchase": "https://paypal.me/UltimateRebranding"
+    },
+    {
+      "name": "Rebranded Apps UK<br>APK Store",
+      "description": "A website where you can see all the apk's i have available contact me on telegram for more info.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://fm.rebrandedappsuk.tk/uploads/Opera-Snapshot_2024-06-05_125639_store_rebrandedappsuk_tk.png",
+      "images": [
+        "https://store.rebrandedappsuk.tk/admin/images/photo_2024-03-14_13-49-25.jpg",
+        "https://store.rebrandedappsuk.tk/admin/images/photo_2023-12-27_20-41-47.jpg",
+        "https://store.rebrandedappsuk.tk/admin/images/photo_2024-03-14_13-51-42.jpg",
+        "https://store.rebrandedappsuk.tk/admin/images/photo_2024-03-14_13-53-01.jpg",
+        "https://store.rebrandedappsuk.tk/admin/images/Untitled.jpg",
+        "https://store.rebrandedappsuk.tk/admin/images/photo_2024-03-14_14-05-10.jpg",
+        "https://store.rebrandedappsuk.tk/admin/images/photo_2024-01-19_10-56-53.jpg",
+        "https://store.rebrandedappsuk.tk/admin/images/ezgif.com-optimize.gif",
+        "https://store.rebrandedappsuk.tk/admin/images/1713365904_downloader.gif"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/nmbtvtech",
+      "purchase": "https://store.rebrandedappsuk.tk/"
+    }
+  ],
   "Miscellaneous": [
     {
       "name": "Cockpit Panel",
@@ -22,7 +65,7 @@
       ],
       "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
     }
   ],
   "Panels": [
@@ -45,7 +88,26 @@
       ],
       "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
+    },
+    {
+      "name": "Cockpit Panel: Purple Player Module",
+      "description": "Simplify customization with Cockpit Panel's Purple Player Module. Remotely configure services and settings for Purple Player, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-1vuz1-producto-21.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_21/66739b0c14092_8481.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_21/66739b135ff3e_6866.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_21/66739b198de0d_7955.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/nmbtvtech",
+      "purchase": "https://t.me/nmbtvtech"
     },
     {
       "name": "Cockpit Panel: Tivimate Module",
@@ -61,8 +123,8 @@
         "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_15/664606a7a2ad3_2087.png"
       ],
       "ytvideo": "",
-      "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/iptv-panel-modules/tivimate"
     },
     {
       "name": "Cockpit Panel: XCIPTV Module",
@@ -84,7 +146,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
     },
     {
       "name": "Cockpit Panel: Flix Vision Module",
@@ -102,7 +164,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
     },
     {
       "name": "Cockpit Panel: CinemaHD Module",
@@ -120,7 +182,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
     },
     {
       "name": "Cockpit Panel: NexTv Module",
@@ -137,7 +199,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
     },
     {
       "name": "Cockpit Panel: Sparkle Module",
@@ -155,7 +217,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
     },
     {
       "name": "Cockpit Panel: Stremio Module",
@@ -173,7 +235,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
     },
     {
       "name": "Cockpit Panel: Streambox Module",
@@ -197,7 +259,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
     },
     {
       "name": "Cockpit Panel: IBO Module",
@@ -217,7 +279,93 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
+    },
+    {
+      "name": "Cockpit Panel: 1-Stream Module",
+      "description": "Simplify customization with Cockpit Panel's 1-Stream Module. Remotely configure services and settings for 1-Stream, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-x8b3x-producto-22.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_22/66b002c1de324_7392.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/nmbtvtech",
+      "purchase": "https://t.me/nmbtvtech"
+    },
+    {
+      "name": "Cockpit Panel: 9Xtream Module",
+      "description": "Simplify customization with Cockpit Panel's 9Xtream Module. Remotely configure services and settings for 9Xtream, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-1dev0-producto-23.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_23/66b002e1897d8_6951.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/nmbtvtech",
+      "purchase": "https://t.me/nmbtvtech"
+    },
+    {
+      "name": "Cockpit Panel: MYTVOnline Module",
+      "description": "Simplify customization with Cockpit Panel's MYTVOnline Module. Remotely configure services and settings for MYTVOnline, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-cdz1n-producto-24.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_24/66b027c3350a5_8245.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/nmbtvtech",
+      "purchase": "https://t.me/nmbtvtech"
+    },
+    {
+      "name": "Cockpit Panel: Legazy Module",
+      "description": "Simplify customization with Cockpit Panel's Legazy Module. Remotely configure services and settings for Legazy, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-6dmek-producto-25.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_25/66b17a8358031_1551.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/nmbtvtech",
+      "purchase": "https://t.me/nmbtvtech"
+    },
+    {
+      "name": "Cockpit Panel: APKTime Module",
+      "description": "Optimize your setup with Cockpit Panel's APKTime Appstore Module. Remotely configure services and settings for the APKTime Appstore, ensuring seamless integration and an enhanced user experience, all from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-wo0bi-producto-26.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_26/66bae08ca7a08_7064.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_26/66bae09346d98_1400.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/nmbtvtech",
+      "purchase": "https://t.me/nmbtvtech"
     }
   ],
   "VPN Apps": [
@@ -237,7 +385,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
     },
     {
       "name": "Cockpit Panel: Private Internet Access Module",
@@ -255,7 +403,7 @@
       ],
       "ytvideo": "",
       "telegram": "https://t.me/nmbtvtech",
-      "purchase": ""
+      "purchase": "https://t.me/nmbtvtech"
     }
   ]
 }
