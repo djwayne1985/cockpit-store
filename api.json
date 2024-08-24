@@ -383,6 +383,23 @@
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
       "purchase": "https://t.me/Fladnag2018"
+    },
+    {
+      "name": "Cockpit Panel: LTQ2 Module",
+      "description": "Simplify customization with Cockpit Panel's LTQ2 Module. Remotely configure services and settings for LTQ2, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-zlat9-producto-29.png",
+      "images": [
+        ""
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://t.me/Fladnag2018"
     }
   ],
   "VPN Apps": [
