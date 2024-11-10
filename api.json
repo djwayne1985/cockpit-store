@@ -472,6 +472,22 @@
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
       "purchase": "https://t.me/Fladnag2018"
+    },
+    {
+      "name": "Cockpit Panel:ORVPN Module",
+      "description": "Protect and manage your ORVPN OpenVPN Client connections seamlessly with Cockpit Panel's module. Streamline configurations, optimize integrations, and ensure secure browsing from one intuitive platform.",
+      "hosted": "100.00",
+      "hosted_offer": "75.00",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-pm8rf-producto-31.png",
+      "images": ""
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://t.me/Fladnag2018"
     }
   ]
 }
