@@ -468,6 +468,23 @@
       "ytvideo": "",
       "telegram": "https://t.me/Fladnag2018",
       "purchase": "https://t.me/Fladnag2018"
+    },
+    {
+      "name": "Cockpit Panel: Downloader Module",
+      "description": "Streamline your setup with Cockpit Panel's Downloader Module. Remotely manage services and settings for the Downloader app, ensuring smooth integration and an improved user experience—all from a single, easy-to-use platform.",
+      "hosted": "100.00",
+      "hosted_offer": "75.00",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-62knz-producto-35.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_35/67b544185e3fa_6924.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/Fladnag2018",
+      "purchase": "https://t.me/Fladnag2018"
     }
   ],
   "VPN Apps": [
